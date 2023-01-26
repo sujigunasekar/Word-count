@@ -25,6 +25,7 @@ Emd the program
 ```
 ## Developed by: Suji.G
 ## Reference Number: 22008563
+```
 fname = input('Enter file name: ')
 num_words = 0
 with open(fname, 'r') as f:
@@ -35,8 +36,13 @@ print('Number of words: ',num_words)
 ```
 
 ### OUTPUT:
-![o22](https://user-images.githubusercontent.com/119559822/214847360-e7742b38-1117-4bfb-a8e5-9ce6a97f193b.png)
-![o2](https://user-images.githubusercontent.com/119559822/214846413-c0df27d1-db41-4106-bbd8-693ed141d03a.png)
+![o22](https://user-images.githubusercontent.com/119559822/214848215-a69e7f55-c208-4860-a043-8c1768b501ad.png)
+![o2](https://user-images.githubusercontent.com/119559822/214848606-ecde4923-94b2-44c6-a215-aee155e742da.png)
+
+
+
+
+
 
 
 
